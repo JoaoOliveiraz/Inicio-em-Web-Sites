@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: #fff url(/img/ground2/fundo.png) repeat-x;
+}
+
+.container {
+    width: 700px;
+    margin: 0 auto;
+
+}
+
+#topo {
+    height: 180px;
+    background: url(/img/ground2/detalhe-topo.png) no-repeat right top;
+}
+
+.logo {
+    width: 152px;
+    height: 66px;
+    background: url(/img/ground2/logo.png) no-repeat center;
+    text-indent: -3000px;
+}
